@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gitFire/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/gitFire/static/js/main.ab294f21.chunk.js",
+    "main.js.map": "/gitFire/static/js/main.ab294f21.chunk.js.map",
+    "runtime-main.js": "/gitFire/static/js/runtime-main.fb1d9654.js",
+    "runtime-main.js.map": "/gitFire/static/js/runtime-main.fb1d9654.js.map",
+    "static/css/2.bea59a7a.chunk.css": "/gitFire/static/css/2.bea59a7a.chunk.css",
+    "static/js/2.f73617c7.chunk.js": "/gitFire/static/js/2.f73617c7.chunk.js",
+    "static/js/2.f73617c7.chunk.js.map": "/gitFire/static/js/2.f73617c7.chunk.js.map",
+    "static/js/3.ea52a02d.chunk.js": "/gitFire/static/js/3.ea52a02d.chunk.js",
+    "static/js/3.ea52a02d.chunk.js.map": "/gitFire/static/js/3.ea52a02d.chunk.js.map",
+    "index.html": "/gitFire/index.html",
+    "static/css/2.bea59a7a.chunk.css.map": "/gitFire/static/css/2.bea59a7a.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/gitFire/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f73617c7.chunk.js.LICENSE.txt": "/gitFire/static/js/2.f73617c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1d9654.js",
+    "static/css/2.bea59a7a.chunk.css",
+    "static/js/2.f73617c7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ab294f21.chunk.js"
+  ]
+}
